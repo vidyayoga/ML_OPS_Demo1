@@ -1,5 +1,5 @@
 # ML_OPS_Demo1
-intro to MLOps
+Intro to MLOps
 
 This project demonstrates an end-to-end machine learning workflow using
 Python, Scikit-learn, MLflow, and Git/GitHub.
